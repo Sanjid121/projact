@@ -13,7 +13,15 @@ font-style: italic;
     text-align: center;
 
 }
+.bob{
+height: 700px;
+width: 80;
+color: #0f1011;
+background-color:rgba(207, 207, 228, 0.745) ;
+border-radius: 0px 60px 10px;
+text-align: center;
 
+}
 
 
 
