@@ -1,0 +1,48 @@
+.bt{
+background-color: aqua;
+margin:0px 0px;
+
+}
+.bt:hover{
+background-color: rgb(33, 225, 12);
+padding:10px 20px;
+border: rgb(35, 225, 28);
+
+}
+.btt img{
+    height:20px;
+    width:20px
+    
+    
+
+
+}
+.btt{
+    background-color: aqua;
+    border-radius: 10px;
+    justify-content:center;
+    display: flex;
+   height: 25px;
+   width: 100px;
+   margin: 5px;
+   cursor: pointer;
+   
+    
+}
+.url{
+    
+
+
+
+
+}
+.btt :hover{
+    background-color: rgb(232, 243, 238);
+    border: dotted 2px;
+
+    
+}
+.bk{
+    background-color: rgb(168, 238, 115);
+   
+}

@@ -3,6 +3,7 @@
 
     background-color: rgba(246, 240, 240, 0.997);
     border-radius: 30px 30px 30px 30px;
+    
 }
 
 .tital {
@@ -47,5 +48,5 @@ body {
 .cards:hover {
     box-shadow: 10px 10px 10px 10px rgb(106, 106, 121);
     transition: .5;
-
+    
 }
