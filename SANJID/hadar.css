@@ -1,0 +1,67 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+.hadar{
+height: 60px;
+width: 1200vw;
+background-color: chocolate;
+
+
+}
+.full{
+    
+    top: 0px;
+    margin: 0 auto;
+    position: sticky;
+    width: 100vw;
+   
+}
+.logo{display: flex;
+    padding: 4px 20px;
+    margin-top: -50px;
+
+}
+.lo1{
+letter-spacing: 4px;
+color: aliceblue;
+font-family: "Angkor";
+font-size: 40px;
+margin-top: -10px;
+
+
+
+}
+.lo2{
+
+letter-spacing: 4px;
+color: blue;
+font-family: "Angkor";
+font-size: 40px;
+margin-top: -10px;
+
+}
+.port{
+    display: flex;
+    margin-left: 350px;
+   
+     
+}
+.port a{
+    padding-left: 20px;
+   text-decoration: none;
+   margin-top: 15px;
+   margin-left: 50px;
+   font-family: "Angkor";
+   font-size: 20px;
+}
+h1{font-size: 1000px;}
+.port a:hover{
+    padding-left: 20px;
+    text-decoration: none;
+    margin-top: 15px;
+    margin-left: 50px;
+    font-family: "Angkor";
+    font-size: 20px;
+    color: rgb(25, 107, 222);
+}

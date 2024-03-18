@@ -1,0 +1,91 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 100px;
+}
+
+.ovver {
+    top: 0;
+    margin: 0 auto;
+    position: sticky;
+    width: 100vw;
+    background-color: rgb(191, 255, 211);
+
+}
+
+.main {
+    margin: 0 auto;
+    max-width: 1200px;
+    overflow: hidden;
+
+}
+
+.header_scrion {
+    margin: 0 auto;
+    background-color: rgb(191, 255, 211);
+    top: 0px;
+    height: 60px;
+    display: flex;
+    max-width: 1200px;
+    justify-content: space-between;
+}
+
+.logo {
+    display: flex;
+    padding: 4px 20px;
+}
+
+.logo1 {
+
+    font-size: 30px;
+    color: rgb(52, 230, 46);
+    font-family: "Oswald";
+    letter-spacing: 4px;
+}
+
+.logo2 {
+    font-size: 30px;
+    font-family: "Oswald";
+    letter-spacing: 4px;
+
+}
+
+.menu {
+
+    display: flex;
+    padding-right: 30px;
+
+}
+
+.menu a {
+
+    margin-left: 20px;
+    text-decoration: none;
+    padding: 16px 10px;
+    letter-spacing: 2px;
+    font-family: "Oswald";
+    font-weight: 600;
+    color: black;
+
+
+}
+
+.menu a:hover {
+
+    margin-left: 20px;
+    text-decoration: none;
+    padding: 16px 10px;
+    letter-spacing: 2px;
+    font-family: "Oswald";
+    font-weight: 600;
+    color: rgb(0, 8, 255);
+
+
+}
+
+.hero_scrion{
+    height: calc(100vh - 60px); 
+}
